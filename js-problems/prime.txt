@@ -1,0 +1,37 @@
+Problem 8: Prime Number Check
+
+Write a function that takes an integer num as input and returns true if the
+number is prime, and false otherwise.
+
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.   
+
+For example:
+
+Input: 2
+
+Output: true
+
+Input: 3
+
+Output: true
+
+Input: 4
+
+Output: false (divisible by 2)
+
+Input: 17
+
+Output: true
+
+Input: 1
+
+Output: false (by definition, 1 is not prime)
+
+Input: 0 or negative numbers
+
+Output: false
+
+Consider edge cases like 0, 1, 2, and negative numbers. How can you efficiently
+ check for divisors?
+
+ Prime numbers = 2,3,5,7,11,13,17,19,23
